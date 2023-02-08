@@ -17,5 +17,6 @@ Excersize for binary code -
 
 Solution in the image.
 
-contact for creat any solution generator making tool-
+# Contact
+For create any solution generator making tool-
 mirazibnsina@outlook.com
