@@ -17,6 +17,3 @@ Excersize for binary code -
 
 Solution in the image.
 
-# Contact
-For create any solution generator making tool-
-mirazibnsina@outlook.com
